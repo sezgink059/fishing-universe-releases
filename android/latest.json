@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.5",
-  "versionCode": 285,
+  "version": "0.28.6",
+  "versionCode": 286,
   "sizeBytes": 45588981,
-  "sha256": "4151a7bd3afa5089f84e8aa912634dca138a56fffb16dc92041c33c7146c834b",
-  "sourceSha": "d1ca3ded59ca0802d70de28681a9bd285168c28c",
-  "notes": "Normal oyun sahnesine isteğe bağlı online oturum desteği eklendi. Hareket, duruş, kamera, atış ve diğer oyuncular sunucunun kabul ettiği durumdan gösterilir. Menü ve bağlantı kesintisinde tutulan girişler durdurulur; online avlar yerel günlüğe ve XP’ye yazılmaz. Bu sürüm çevrimdışı açılır; genel online sunucu henüz yayımlanmadı.",
-  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/e4b1c1e508d919e3b8b3d3f9e60ada9b4d925dd2/FishingUniverse-0.28.5.apk"
+  "sha256": "879579028fc79b932d0cfc97b8eacbfb644bc02ac0a76aa66c2b72e8a236e9cd",
+  "sourceSha": "7597af1f5fa7d9df7f15ed2922de9584f1888acd",
+  "notes": "Online oturumda kamerayı ortalama, sunucunun kabul ettiği açıya kadar devam eder. Yeni bakış hareketi veya menü/arka plan geçişi ortalamayı durdurur. Sunucu desteği henüz bulunmayan iskeleye dönüş online menüde kullanılamaz gösterilir. Oyun çevrimdışı açılır; genel online sunucu henüz yayımlanmadı.",
+  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/da494688cf624cf556033210fc0d2584a736cdd5/FishingUniverse-0.28.6.apk"
 }
