@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.4",
-  "versionCode": 284,
-  "sizeBytes": 45548021,
-  "sha256": "178a0a66f6c252fc8ef81118e0fc2edfb1d338db0f711c73b6eb4459beb9087f",
-  "sourceSha": "19935e19c941d5d7b38bc9af82c33082d3a7a371",
-  "notes": "Online sahne bağlantısı için sunucu komut adaptörü ve sınırlı KCP taşıma katmanı eklendi. Bağlantı kesintisinde oturumun geç gelen paketle yeniden açılması engellendi; makara için simülasyondan bağımsız görsel saat hazırlandı. Bu sürümde online sahne henüz etkin değildir; oyun çevrimdışı açılır. Av kayıtları ve ayarlar korunur.",
-  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/820d3921fb7b8e1b487349813c9574209b6a0b62/FishingUniverse-0.28.4.apk"
+  "version": "0.28.5",
+  "versionCode": 285,
+  "sizeBytes": 45588981,
+  "sha256": "4151a7bd3afa5089f84e8aa912634dca138a56fffb16dc92041c33c7146c834b",
+  "sourceSha": "d1ca3ded59ca0802d70de28681a9bd285168c28c",
+  "notes": "Normal oyun sahnesine isteğe bağlı online oturum desteği eklendi. Hareket, duruş, kamera, atış ve diğer oyuncular sunucunun kabul ettiği durumdan gösterilir. Menü ve bağlantı kesintisinde tutulan girişler durdurulur; online avlar yerel günlüğe ve XP’ye yazılmaz. Bu sürüm çevrimdışı açılır; genel online sunucu henüz yayımlanmadı.",
+  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/e4b1c1e508d919e3b8b3d3f9e60ada9b4d925dd2/FishingUniverse-0.28.5.apk"
 }
