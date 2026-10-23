@@ -1,9 +1,9 @@
 # Fishing Universe Android
 
-[Son APK: 0.28.9](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/b8bbb6042faee4fca6ee0db63dfadc9b589a2e36/FishingUniverse-0.28.9.apk)
+[Son APK: 0.28.10](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/da613bd2d4a79ad83e1ddb4169881f039e337007/FishingUniverse-0.28.10.apk)
 
-Online geliştirme oturumunda bağlantı kesildiğinde veya zaman aşımına uğradığında diğer oyuncuların eski modelleri artık gizlenir. Yeni oturumdan kabul edilmiş veri gelince yeniden gösterilir; sonuç ekranındaki gizleme davranışı korunur. Şapkalı balıkçı hâlâ görsel prototiptir. Oyun çevrimdışı açılır; genel online sunucu henüz yayımlanmadı.
+Online geliştirme oturumunda bağlanma ve bağlantı kesilmesi artık açık bir durum kartıyla gösterilir. Oturum onayı beklenirken veya bağlantı kapalıyken eski av ve yürüme kontrolleri gizlenir. Yeni oturumun kabul edilmiş verisi geldiğinde kart kapanır. Oyun çevrimdışı açılır; genel online sunucu ve otomatik yeniden bağlanma henüz yoktur.
 
 Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gereklidir.
 
-SHA256: 4b68d6ff5926dac7c0fad95468a4d6f481ebc852060ac360fa82893f8e392c09
+SHA256: a07cb49f9bf0766b707ddeb202d26feb1a8f12558218913d16029333d091e0d6
