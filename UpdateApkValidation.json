@@ -1,0 +1,18 @@
+{
+  "binary_manifest": "passed",
+  "native_dex_classes": "passed",
+  "provider": {
+    "name": "com.fishinguniverse.updates.UpdateProvider",
+    "exported": 0,
+    "authorities": "com.fishinguniverse.prototype.updates",
+    "grantUriPermissions": 4294967295
+  },
+  "permissions": [
+    "android.permission.INTERNET",
+    "android.permission.REQUEST_INSTALL_PACKAGES",
+    "com.fishinguniverse.prototype.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+  ],
+  "client_contract_aot": "passed",
+  "server_authority_absent": "passed",
+  "device_runtime_tested": false
+}
