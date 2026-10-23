@@ -1,0 +1,15 @@
+{
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.5",
+  "version_code": 285,
+  "previous_version_code": 284,
+  "min_sdk": 26,
+  "target_sdk": 36,
+  "certificate_sha256": "6c7b4649839777be9a2003587a76898d93118cb927090cca4328e93075bd990b",
+  "sha256": "4151a7bd3afa5089f84e8aa912634dca138a56fffb16dc92041c33c7146c834b",
+  "bytes": 45588981,
+  "signature_v2": true,
+  "signature_v3": true,
+  "zip_crc": "passed",
+  "device_upgrade_install_tested": false
+}
