@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.8",
-  "versionCode": 288,
+  "version": "0.28.9",
+  "versionCode": 289,
   "sizeBytes": 45597173,
-  "sha256": "43927b0c9fc5affe4a2985b2df8c4496e4717e6c5008506dc473f25cf7bb0288",
-  "sourceSha": "76e657481063098989c70bd8db40eeb96e7aa0c7",
-  "notes": "Online oturumdaki geçici kapsüller yerine şapkalı, başı ve uzuvları olan özgün balıkçı prototipi eklendi. Yön ve oturma duruşu sunucunun kabul ettiği veriden gösterilir; sonuç incelenirken gizlenip oyuna dönünce yeniden görünür. Bu bir görsel prototiptir; nihai avatar animasyonları henüz yoktur. Oyun çevrimdışı açılır; genel online sunucu henüz yayımlanmadı.",
-  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/02a3651f585f53e1374fc1844a02407f03cdf512/FishingUniverse-0.28.8.apk"
+  "sha256": "4b68d6ff5926dac7c0fad95468a4d6f481ebc852060ac360fa82893f8e392c09",
+  "sourceSha": "0fe0cf90a4d234ad9c0441100b25c3733efbe7e6",
+  "notes": "Online geliştirme oturumunda bağlantı kesildiğinde veya zaman aşımına uğradığında diğer oyuncuların eski modelleri artık gizlenir. Yeni oturumdan kabul edilmiş veri gelince yeniden gösterilir; sonuç ekranındaki gizleme davranışı korunur. Şapkalı balıkçı hâlâ görsel prototiptir. Oyun çevrimdışı açılır; genel online sunucu henüz yayımlanmadı.",
+  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/b8bbb6042faee4fca6ee0db63dfadc9b589a2e36/FishingUniverse-0.28.9.apk"
 }
