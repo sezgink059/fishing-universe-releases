@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.8",
+  "versionCode": 288,
+  "sizeBytes": 45597173,
+  "sha256": "43927b0c9fc5affe4a2985b2df8c4496e4717e6c5008506dc473f25cf7bb0288",
+  "sourceSha": "76e657481063098989c70bd8db40eeb96e7aa0c7",
+  "notes": "Online oturumdaki geçici kapsüller yerine şapkalı, başı ve uzuvları olan özgün balıkçı prototipi eklendi. Yön ve oturma duruşu sunucunun kabul ettiği veriden gösterilir; sonuç incelenirken gizlenip oyuna dönünce yeniden görünür. Bu bir görsel prototiptir; nihai avatar animasyonları henüz yoktur. Oyun çevrimdışı açılır; genel online sunucu henüz yayımlanmadı.",
+  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/02a3651f585f53e1374fc1844a02407f03cdf512/FishingUniverse-0.28.8.apk"
+}

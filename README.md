@@ -1,9 +1,9 @@
 # Fishing Universe Android
 
-[Son APK: 0.28.7](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/01cc7a71e5370651b2ba9e0a0dbf6234f63806b8/FishingUniverse-0.28.7.apk)
+[Son APK: 0.28.8](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/02a3651f585f53e1374fc1844a02407f03cdf512/FishingUniverse-0.28.8.apk)
 
-Online av sonucu incelenirken geçici oyuncu avatarları balığın önünü kapatmaz; sunucunun kabul ettiği oyun durumuna dönünce yeniden görünür. Gerçek iki istemcili senaryoda kaloma misina verirken sarma animasyonunun durması ve sarımın yeniden başlaması doğrulanır. Oyun çevrimdışı açılır; genel online sunucu henüz yayımlanmadı.
+Online oturumdaki geçici kapsüller yerine şapkalı, başı ve uzuvları olan özgün balıkçı prototipi eklendi. Yön ve oturma duruşu sunucunun kabul ettiği veriden gösterilir; sonuç incelenirken gizlenip oyuna dönünce yeniden görünür. Bu bir görsel prototiptir; nihai avatar animasyonları henüz yoktur. Oyun çevrimdışı açılır; genel online sunucu henüz yayımlanmadı.
 
 Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gereklidir.
 
-SHA256: 56401ba42a2ff4149e4cb5597dc2afe4bd2389dd97debb32be0272e67f3747c0
+SHA256: 43927b0c9fc5affe4a2985b2df8c4496e4717e6c5008506dc473f25cf7bb0288
