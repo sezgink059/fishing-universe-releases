@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.2",
-  "versionCode": 282,
-  "sizeBytes": 45330859,
-  "sha256": "0bfbb1dff30920915db84783afd5491144f6c3a4b3a589046648911c3ff1321c",
-  "sourceSha": "2c51285d441107a75ccab475aeba6c0265f12ccd",
-  "notes": "Uygulama içi güncelleme altyapısı eklendi. Yeni sürümler açılışta kontrol edilecek; indirme ve Android kurulum onayı küçük bir pencereden yönetilecek. Kıyıdaki kayaların çarpışma verisi düzeltildi. Av kayıtları ve ayarlar korunur. İnternet yoksa normal oyuna devam edilir.",
-  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/bb96d06dc141576596beb39f6d4e6426cd8aca0e/FishingUniverse-0.28.2.apk"
+  "version": "0.28.3",
+  "versionCode": 283,
+  "sizeBytes": 45392299,
+  "sha256": "c8db60f6b7d399e8d0e5b387527a5ac22a6b2ebdf1cd9cc4c273fb77e1f9570e",
+  "sourceSha": "4c96b64eb2fd3bfa1c300c2561cf9c1d8d183741",
+  "notes": "Online istemci için ortak veri ve protokol kodu sunucu uygulamasından ayrıldı. Android derlemesi artık istemciye sunucu kodu girmediğini denetliyor. Oyun çevrimdışı çalışmaya devam eder; oynanış, av kayıtları ve ayarlar korunur. Uygulama içi güncelleme kanalı aktiftir.",
+  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/45571a87115e161b73bad0590dc5db604c947836/FishingUniverse-0.28.3.apk"
 }

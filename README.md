@@ -1,9 +1,9 @@
 # Fishing Universe Android
 
-[Son APK: 0.28.2](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/bb96d06dc141576596beb39f6d4e6426cd8aca0e/FishingUniverse-0.28.2.apk)
+[Son APK: 0.28.3](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/45571a87115e161b73bad0590dc5db604c947836/FishingUniverse-0.28.3.apk)
 
-Uygulama içi güncelleme altyapısı eklendi. Yeni sürümler açılışta kontrol edilecek; indirme ve Android kurulum onayı küçük bir pencereden yönetilecek. Kıyıdaki kayaların çarpışma verisi düzeltildi. Av kayıtları ve ayarlar korunur. İnternet yoksa normal oyuna devam edilir.
+Online istemci için ortak veri ve protokol kodu sunucu uygulamasından ayrıldı. Android derlemesi artık istemciye sunucu kodu girmediğini denetliyor. Oyun çevrimdışı çalışmaya devam eder; oynanış, av kayıtları ve ayarlar korunur. Uygulama içi güncelleme kanalı aktiftir.
 
 Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gereklidir.
 
-SHA256: 0bfbb1dff30920915db84783afd5491144f6c3a4b3a589046648911c3ff1321c
+SHA256: c8db60f6b7d399e8d0e5b387527a5ac22a6b2ebdf1cd9cc4c273fb77e1f9570e
