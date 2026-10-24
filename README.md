@@ -1,9 +1,9 @@
 # Fishing Universe Android
 
-[Son APK: 0.28.23](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/25aa5897b485810140c5c27315178fe20d4404c3/FishingUniverse-0.28.23.apk)
+[Son APK: 0.28.24](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/c2f569989fae6469c0aaf525cf2013134cfa85fe/FishingUniverse-0.28.24.apk)
 
-Online av sonucundan devam ederken sunucu yanıtı beklenir ve aynı istek tekrar gönderilmez. Görüntüler gelmeye devam etse bile yanıtsız kalan devam işlemi iki saniyede kapanır; yeniden bağlanma veya çevrimdışı oynama seçimi sana bırakılır. Balık salımının tamamlanmış su pozu yanıt beklenirken korunur. Yerel kayıt ve ödüller değişmez. Oyun çevrimdışı açılır; genel online sunucu henüz yoktur.
+Online av sonucundan devam ederken Sonuç onaylanıyor ekranı işlem onayı ve hazır durum birlikte gelene kadar açık kalır. Hazır görüntüsü önce gelse bile av kontrolleri, diğer oyuncular ve ses erken açılmaz. İki saniyelik zaman aşımı ve bilinçli yeniden bağlantı seçimi korunur. Yerel kayıt ve ödüller değişmez. Oyun çevrimdışı açılır; genel online sunucu henüz yoktur.
 
 Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gereklidir.
 
-SHA256: 7c547019e0f96b5bedb7e3605eea80293b47bb8931c4c5b5e025ede6b853f400
+SHA256: 111ac274ae73b36b1abba6177e31a0aeff4faf270628b826bbfd01ac120eecd9
