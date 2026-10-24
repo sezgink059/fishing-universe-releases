@@ -1,9 +1,9 @@
 # Fishing Universe Android
 
-[Son APK: 0.28.10](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/da613bd2d4a79ad83e1ddb4169881f039e337007/FishingUniverse-0.28.10.apk)
+[Son APK: 0.28.11](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/89b9933b6d7758a5011349b48555f915f289ef82/FishingUniverse-0.28.11.apk)
 
-Online geliştirme oturumunda bağlanma ve bağlantı kesilmesi artık açık bir durum kartıyla gösterilir. Oturum onayı beklenirken veya bağlantı kapalıyken eski av ve yürüme kontrolleri gizlenir. Yeni oturumun kabul edilmiş verisi geldiğinde kart kapanır. Oyun çevrimdışı açılır; genel online sunucu ve otomatik yeniden bağlanma henüz yoktur.
+Online geliştirme oturumunda bağlantı kesildiğinde Yeniden bağlan düğmesi eklendi. Yeni oturum isteği için parmağını kaldırıp yeniden dokunman gerekir; eski av girdileri taşınmaz. Sunucu onayı beklenirken düğme gizlenir. Bu elle başlatılan geliştirme bağlantısıdır; otomatik yeniden bağlanma veya genel online sunucu yoktur. Oyun çevrimdışı açılır.
 
 Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gereklidir.
 
-SHA256: a07cb49f9bf0766b707ddeb202d26feb1a8f12558218913d16029333d091e0d6
+SHA256: e7b9eba75976423ba686d38ff9347433b2cfd1ea6d1a9141cb13bef53d6141c2

@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.11",
+  "versionCode": 291,
+  "sizeBytes": 45601269,
+  "sha256": "e7b9eba75976423ba686d38ff9347433b2cfd1ea6d1a9141cb13bef53d6141c2",
+  "sourceSha": "e5236c1417e4a95c22077dc0699f6a2b80b9070d",
+  "notes": "Online geliştirme oturumunda bağlantı kesildiğinde Yeniden bağlan düğmesi eklendi. Yeni oturum isteği için parmağını kaldırıp yeniden dokunman gerekir; eski av girdileri taşınmaz. Sunucu onayı beklenirken düğme gizlenir. Bu elle başlatılan geliştirme bağlantısıdır; otomatik yeniden bağlanma veya genel online sunucu yoktur. Oyun çevrimdışı açılır.",
+  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/89b9933b6d7758a5011349b48555f915f289ef82/FishingUniverse-0.28.11.apk"
+}
