@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.12",
+  "versionCode": 292,
+  "sizeBytes": 45601269,
+  "sha256": "4acf16403cce5aab7a3c36c0bc962cb5f4881236d1ae74c1290b73a3b024bb42",
+  "sourceSha": "959b6c302069a2ece778f3b119f00a2fb64e7332",
+  "notes": "Online geliştirme oturumunda bağlantı kesildiğinde veya yeni bağlantı onayı beklenirken sesler hemen durdurulur. Yeni oturum onaylandığında eski ses olayları tekrarlanmadan devam eder; mevcut ses tercihin korunur. Elle yeniden bağlanma ve av kontrollerinin korunması sürer. Oyun çevrimdışı açılır; genel online sunucu henüz yoktur.",
+  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/45cb514bd7d78c4c7ddd0531ee74d5ef8dc3c2b1/FishingUniverse-0.28.12.apk"
+}
