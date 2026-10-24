@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.22",
+  "versionCode": 302,
+  "sizeBytes": 45609461,
+  "sha256": "7f1ab8fd1cbebf6a003be5b347c0412c98555f1c45193cb104b021b62423795f",
+  "sourceSha": "533e8a3d90e77a05306d48e2625b3f57e1910c88",
+  "notes": "Balığı suya bırakma animasyonu odak kaybı veya dokunuş kilidi sırasında biterse salım artık kaybolmaz. Tamamlanmış animasyon bekletilir; uygulamaya dönüp eski dokunuşu bıraktığında devam isteği bir kez gönderilir. Hazır durum online oturumda yine sunucudan gelir. Yerel kayıt ve ödüller değişmez. Oyun çevrimdışı açılır; genel online sunucu henüz yoktur.",
+  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/6d36e5c09bd0d7fc8b8dd0a7c5b684355c48bf54/FishingUniverse-0.28.22.apk"
+}
