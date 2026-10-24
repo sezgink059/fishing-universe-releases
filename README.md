@@ -1,9 +1,9 @@
 # Fishing Universe Android
 
-[Son APK: 0.28.18](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/cb6054b75f94f349083cf2f576209b722e7d777d/FishingUniverse-0.28.18.apk)
+[Son APK: 0.28.19](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/68764dcd1e0b80f932e158237e3e7cf358ccf63f/FishingUniverse-0.28.19.apk)
 
-Online oturumda ayrılma veya iskeleye dönüş onayı gelmezse bekleme iki saniyede sonlanır; tekrar bağlanma ve çevrimdışı devam etme seçimi açılır. Konum güncellemeleri sürerken bile yanıtsız işlem beklemede takılmaz. Otomatik çevrimdışı geçiş yoktur; yerel ekipman ve kayıtların korunur. Eşleşen FUA5 geliştirme sunucusu gerekir. Oyun çevrimdışı açılır; genel online sunucu henüz yoktur.
+Online geliştirme oturumunda av sürerken de menüden oturumdan ayrılabilirsin. Av iptal edilir uyarısı gösterilir; ayrılma sunucu onayıyla tamamlanır. İskeleye dön av sırasında kilitli kalır. Onay gelmezse iki saniyelik süre sınırı korunur. Yeniden bağlanma yeni ve hazır oturum açar; iptal edilen av geri getirilmez ve yerel kayıtlarına ödül yazılmaz. Oyun çevrimdışı açılır; genel online sunucu henüz yoktur.
 
 Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gereklidir.
 
-SHA256: 6518d0a64f07a3ddb743469828b0ee33d61c6500e3d7e78d8b1033c49841134f
+SHA256: 4fdd0c5720e7d95a3cb4b3b22877ed31f878537a67f163800f036d2fcc23ad67
