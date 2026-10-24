@@ -1,9 +1,9 @@
 # Fishing Universe Android
 
-[Son APK: 0.28.12](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/45cb514bd7d78c4c7ddd0531ee74d5ef8dc3c2b1/FishingUniverse-0.28.12.apk)
+[Son APK: 0.28.13](https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/811c037c9a13990373782927dee3d400572afe2f/FishingUniverse-0.28.13.apk)
 
-Online geliştirme oturumunda bağlantı kesildiğinde veya yeni bağlantı onayı beklenirken sesler hemen durdurulur. Yeni oturum onaylandığında eski ses olayları tekrarlanmadan devam eder; mevcut ses tercihin korunur. Elle yeniden bağlanma ve av kontrollerinin korunması sürer. Oyun çevrimdışı açılır; genel online sunucu henüz yoktur.
+Online geliştirme bağlantısı kurulurken Vazgeç düğmesi eklendi. İptal edilen istek kapalı kalır; aynı basılı dokunuş yeniden bağlanmayı başlatmaz. Yeniden denemek için parmağını kaldırıp yeni dokunuş yapmalısın. Bekleme ve iptalde sesler kapalı kalır. Oyun çevrimdışı açılır; genel online sunucu henüz yoktur.
 
 Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gereklidir.
 
-SHA256: 4acf16403cce5aab7a3c36c0bc962cb5f4881236d1ae74c1290b73a3b024bb42
+SHA256: adafbf43cc7404a12af118a0d09b9460d36f1b90aab9964371d4c193fc76f794
