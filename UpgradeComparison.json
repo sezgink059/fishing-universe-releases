@@ -1,0 +1,33 @@
+{
+  "previous": {
+    "package": "com.fishinguniverse.prototype",
+    "version": "0.28.24",
+    "version_code": 304,
+    "previous_version_code": 303,
+    "min_sdk": 26,
+    "target_sdk": 36,
+    "certificate_sha256": "6c7b4649839777be9a2003587a76898d93118cb927090cca4328e93075bd990b",
+    "sha256": "111ac274ae73b36b1abba6177e31a0aeff4faf270628b826bbfd01ac120eecd9",
+    "bytes": 45609461,
+    "signature_v2": true,
+    "signature_v3": true,
+    "zip_crc": "passed",
+    "device_upgrade_install_tested": false
+  },
+  "current": {
+    "package": "com.fishinguniverse.prototype",
+    "version": "0.28.25",
+    "version_code": 305,
+    "previous_version_code": 304,
+    "min_sdk": 26,
+    "target_sdk": 36,
+    "certificate_sha256": "6c7b4649839777be9a2003587a76898d93118cb927090cca4328e93075bd990b",
+    "sha256": "d6931e8b70688fef02412aae0c003c208e36aa86e628f625e07112cca8d23a7d",
+    "bytes": 46469621,
+    "signature_v2": true,
+    "signature_v3": true,
+    "zip_crc": "passed",
+    "device_upgrade_install_tested": false
+  },
+  "device_upgrade_install_tested": false
+}
