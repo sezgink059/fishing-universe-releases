@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.28",
-  "versionCode": 308,
+  "version": "0.28.29",
+  "versionCode": 309,
   "sizeBytes": 46576211,
-  "sha256": "cf33c99db42836c769d15cb32e4648372265826df6916014dd4d5fea6e0c4135",
-  "sourceSha": "46a1f21aa3772883f43e54e3cc84f1a601d17bd6",
-  "notes": "Kayıtlı saat ayarlarında göl bağlantı kontrolü düzeltildi. Giriş güvenli biçimde hatırlanır; oyun açılışında oturum sunucudan doğrulanır. Aynı hesapta yeni cihaz girişi önceki oturumu kapatır.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/46a1f21aa3772883f43e54e3cc84f1a601d17bd6/FishingUniverse-0.28.28.apk"
+  "sha256": "69b372fc303b91073c99ed278bdc00fb4cbcd3091a3d29a4f40aa953353d7849",
+  "sourceSha": "6bf4edfd130bbcab4a55bf69c9fbfd82e3b18e27",
+  "notes": "Uygulama arka plandan döndüğünde kayıtlı oturumla otomatik yeniden bağlanır. Eski bağlantı ve tutulan kontroller kapatılır; sunucudan yeni oturum alınır. İptal ve çıkış tercihin korunur.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/6bf4edfd130bbcab4a55bf69c9fbfd82e3b18e27/FishingUniverse-0.28.29.apk"
 }
