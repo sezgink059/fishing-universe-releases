@@ -1,11 +1,11 @@
 # Fishing Universe Android
 
-[APK indir: 0.28.27 / kod 307](https://datacenter.teknoyenilik.com/fishing/downloads/b5a0219a20e72a17bcc1885b03b803124c089340/FishingUniverse-0.28.27.apk)
+[APK indir: 0.28.28 / kod308](https://datacenter.teknoyenilik.com/fishing/downloads/46a1f21aa3772883f43e54e3cc84f1a601d17bd6/FishingUniverse-0.28.28.apk)
 
-Güncellemeler artık mevcut VPS'in HTTPS kanalından dağıtılır. Hesap girişi zorunludur; oyun sunucuya bağlı çalışır.
+Kayıtlı saat ayarlarında göl bağlantı kontrolü düzeltildi. Bu sürümde bir kez giriş yaptıktan sonra oturum30gün hatırlanır ve her açılışta sunucudan doğrulanır. Şifre saklanmaz. Aynı hesaba başka cihazdan giriş yapıldığında önceki oturum kapanır.
 
-0.28.25/0.28.26 kullanıyorsan bir defa yukarıdaki APK'yı eski oyunun üstüne yükle. Uygulamayı kaldırma. Android kurulum onayı gereklidir. 0.28.27 ve sonrasındaki uygulama VPS güncelleme kanalını kullanır.
+Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gerekir.0.28.27ve sonrası uygulama içinden VPS güncelleme kanalını kullanır;0.28.25/0.28.26için bir kez bağlantıdan kurulum gerekir.
 
-[Güncel VPS sürüm bilgisi](https://datacenter.teknoyenilik.com/fishing/updates/latest.json). Bu depodaki sürüm bilgisi yayımlanan VPS kanalının bir kopyasıdır.
+[Güncel VPS sürüm bilgisi](https://datacenter.teknoyenilik.com/fishing/updates/latest.json). Bu depodaki sürüm bilgisi VPS kanalının bir kopyasıdır.
 
-SHA256: 842497cb9f4a3a9b79432fa6cf3ee80ba46e4288079e989f0e1d6fd237897cbe
+SHA256: cf33c99db42836c769d15cb32e4648372265826df6916014dd4d5fea6e0c4135
