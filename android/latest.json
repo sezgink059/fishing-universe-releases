@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.25",
-  "versionCode": 305,
-  "sizeBytes": 46469621,
-  "sha256": "d6931e8b70688fef02412aae0c003c208e36aa86e628f625e07112cca8d23a7d",
-  "sourceSha": "4f2291495b58df88659e7c16ba10a4307f1505e2",
-  "notes": "Online oyna ekranından davet koduyla canlı göle bağlanma eklendi. HTTPS giriş ve güvenli WebSocket bağlantısı kullanılır. Oda iki oyunculudur; online avlar yerel günlüğe ve ilerlemeye yazılmaz. Bağlantı kesilirse yeniden giriş sunucudan yeni oturum alır. Oyun çevrimdışı açılmaya devam eder.",
-  "apkUrl": "https://raw.githubusercontent.com/sezgink059/fishing-universe-releases/c18c14214049a3c6622cde4d842181be0048b0ad/FishingUniverse-0.28.25.apk"
+  "version": "0.28.27",
+  "versionCode": 307,
+  "sizeBytes": 46568019,
+  "sha256": "842497cb9f4a3a9b79432fa6cf3ee80ba46e4288079e989f0e1d6fd237897cbe",
+  "sourceSha": "b5a0219a20e72a17bcc1885b03b803124c089340",
+  "notes": "Güncellemeler artık oyunun HTTPS sunucusundan indirilir. Hesap girişi ve çevrim içi oynanış korunur. Mevcut oyunu kaldırmadan güncelleyebilirsin.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/b5a0219a20e72a17bcc1885b03b803124c089340/FishingUniverse-0.28.27.apk"
 }

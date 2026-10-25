@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.26",
+  "versionCode": 306,
+  "sizeBytes": 46568019,
+  "sha256": "48292bd686b542ee5ea2d1db51f44b215cf8467a5beea1e6157db6d5f4fd130e",
+  "sourceSha": "f1a0fa87f2ff2345307f9005571b7a6cf8e4f083",
+  "notes": "Oyun artık yalnızca hesap girişiyle çevrim içi oynanır. Kullanıcı adı ve şifreyle kayıt/giriş eklendi; davet kodu kaldırıldı. Bağlantı kesilince oyun durur ve yeniden bağlanmak gerekir. Av günlüğü ve XP sunucudaki hesaba kaydedilir; eski çevrimdışı kayıt dosyaları korunur ancak çevrim içi hesaba aktarılmaz.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/f1a0fa87f2ff2345307f9005571b7a6cf8e4f083/FishingUniverse-0.28.26.apk"
+}

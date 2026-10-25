@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.27",
+  "versionCode": 307,
+  "sizeBytes": 46568019,
+  "sha256": "842497cb9f4a3a9b79432fa6cf3ee80ba46e4288079e989f0e1d6fd237897cbe",
+  "sourceSha": "b5a0219a20e72a17bcc1885b03b803124c089340",
+  "notes": "Güncellemeler artık oyunun HTTPS sunucusundan indirilir. Hesap girişi ve çevrim içi oynanış korunur. Mevcut oyunu kaldırmadan güncelleyebilirsin.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/b5a0219a20e72a17bcc1885b03b803124c089340/FishingUniverse-0.28.27.apk"
+}
