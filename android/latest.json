@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.32",
-  "versionCode": 312,
-  "sizeBytes": 48558769,
-  "sha256": "8ee913d5aa4b512a8d0c55abbb30185c60d3b0fc27371dc8d2cca452f77301b5",
-  "sourceSha": "7e51a01c139ed9048d99f2bd8b6e7ed99deffcd7",
-  "notes": "Android çizim çözünürlüğü en fazla 1280 piksel genişliğe, su yansıması 256 piksele sınırlandı. Sürüm ve gerçek kare hızını gösteren FPS sayacı eklendi. Çevrimiçi hareket yumuşatma, azaltılmış boşta ağ trafiği, özgün harita doğrulaması ve kayıtlı giriş korunur.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/7e51a01c139ed9048d99f2bd8b6e7ed99deffcd7/FishingUniverse-0.28.32.apk"
+  "version": "0.28.33",
+  "versionCode": 313,
+  "sizeBytes": 48562865,
+  "sha256": "06f1b69e1ab810ea1352826fb9f564e17b3b55f6acd1a742b1c70ac68327c29a",
+  "sourceSha": "6694596a5b660808f3246272e03417bcf30f8c36",
+  "notes": "Arayüzde değişmeyen yazıların her karede tekrar oluşturulması azaltıldı. Kapalı menünün gereksiz izin kontrolleri ve değişmeyen arayüz yerleşimi güncellemeleri kaldırıldı. Sürüm/FPS göstergesi, Android çizim sınırı ve kayıtlı giriş korunur.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/6694596a5b660808f3246272e03417bcf30f8c36/FishingUniverse-0.28.33.apk"
 }
