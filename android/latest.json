@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.38",
-  "versionCode": 318,
+  "version": "0.28.39",
+  "versionCode": 319,
   "sizeBytes": 48546481,
-  "sha256": "52b8471ea6fe368e2005ce6e747aa6c3ad931fdb9f62e523fca138636ceff558",
-  "sourceSha": "940c794e569a5df7472876c3531c7577f05ea16a",
-  "notes": "Bakışın ilk komutu, 20 Hz sınırı uygun olduğunda aynı karede ağ kuyruğuna verilir; kısa hareket süreye göre ağırlıklandırılır. Otomatik ortalama, sunucu onaylı açıların yerleşmesini bekler. Kamera, hareket, çarpışma ve atış sunucu onaylı kalır; yerel tahmin yoktur. Hesaplar ve kayıtlı giriş korunur. Fiziksel telefon gecikme/akıcılık kabulü açıktır.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/940c794e569a5df7472876c3531c7577f05ea16a/FishingUniverse-0.28.38.apk"
+  "sha256": "02eccd6690b4baf9750f2fa9c820cbc75ac5def580bbaafbe308b9b6c36eb07d",
+  "sourceSha": "0ac3b0eacfac496c57cf98eca501bf7eb45a7752",
+  "notes": "Yürüme, bakış, misina uzunluğu ve olta geriliminin çizim geçişleri birbirini artık yeniden başlatmaz. Değişmeyen sunucu onaylı hedef, diğer değerler değişse de kendi geçişini tamamlar. Ağ gecikmesi sürer; yerel tahmin eklenmedi. Sunucu otoritesi, çarpışma, atış noktaları, hesaplar ve kayıtlı giriş korunur. Fiziksel telefon akıcılık/FPS/termal kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/0ac3b0eacfac496c57cf98eca501bf7eb45a7752/FishingUniverse-0.28.39.apk"
 }

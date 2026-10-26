@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.39",
+  "versionCode": 319,
+  "sizeBytes": 48546481,
+  "sha256": "02eccd6690b4baf9750f2fa9c820cbc75ac5def580bbaafbe308b9b6c36eb07d",
+  "sourceSha": "0ac3b0eacfac496c57cf98eca501bf7eb45a7752",
+  "notes": "Yürüme, bakış, misina uzunluğu ve olta geriliminin çizim geçişleri birbirini artık yeniden başlatmaz. Değişmeyen sunucu onaylı hedef, diğer değerler değişse de kendi geçişini tamamlar. Ağ gecikmesi sürer; yerel tahmin eklenmedi. Sunucu otoritesi, çarpışma, atış noktaları, hesaplar ve kayıtlı giriş korunur. Fiziksel telefon akıcılık/FPS/termal kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/0ac3b0eacfac496c57cf98eca501bf7eb45a7752/FishingUniverse-0.28.39.apk"
+}
