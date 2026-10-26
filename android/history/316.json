@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.36",
+  "versionCode": 316,
+  "sizeBytes": 48566961,
+  "sha256": "fdba5278adbf7cbff95fc7a3e69b349f52a7fcc27923a8ebc6976fbb241c57f2",
+  "sourceSha": "c04603bed2a1f203a7b77045c1b6d6f98dcaa3b1",
+  "notes": "Olta ucu, misina ve onaylı hareket çizimi, değişken ağ paketi aralıklarına uyarlanan sınırlı yumuşatma kullanır. Paket kesilince son onaylı değerde durur. Yerel geliştirme ve Android derleme yolu eklendi. Sunucu otoritesi, hesaplar ve kayıtlı giriş korunur; ağ gecikmesi sürer, telefon akıcılık kabulü henüz yapılmadı.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/c04603bed2a1f203a7b77045c1b6d6f98dcaa3b1/FishingUniverse-0.28.36.apk"
+}

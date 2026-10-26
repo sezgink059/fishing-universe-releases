@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.35",
-  "versionCode": 315,
+  "version": "0.28.36",
+  "versionCode": 316,
   "sizeBytes": 48566961,
-  "sha256": "da19eff4de9d9a4200532e32449989108fb353b0fce1d4ddc3dc4d08e52c3ddf",
-  "sourceSha": "2cddbd3056c4fbffb89ebb44a097b24662fbf34f",
-  "notes": "Misina sararken olta ucu bükülmesi ve misina uzunluğu sunucu güncellemeleri arasındaki karelerde yumuşatılır. Yürümede başlangıç, yön değiştirme ve durma komutları periyodik gönderimi beklemeden iletilir. Sunucu otoritesi ve kayıtlı giriş korunur; ağ gidiş-dönüş süresi devam eder.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/2cddbd3056c4fbffb89ebb44a097b24662fbf34f/FishingUniverse-0.28.35.apk"
+  "sha256": "fdba5278adbf7cbff95fc7a3e69b349f52a7fcc27923a8ebc6976fbb241c57f2",
+  "sourceSha": "c04603bed2a1f203a7b77045c1b6d6f98dcaa3b1",
+  "notes": "Olta ucu, misina ve onaylı hareket çizimi, değişken ağ paketi aralıklarına uyarlanan sınırlı yumuşatma kullanır. Paket kesilince son onaylı değerde durur. Yerel geliştirme ve Android derleme yolu eklendi. Sunucu otoritesi, hesaplar ve kayıtlı giriş korunur; ağ gecikmesi sürer, telefon akıcılık kabulü henüz yapılmadı.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/c04603bed2a1f203a7b77045c1b6d6f98dcaa3b1/FishingUniverse-0.28.36.apk"
 }

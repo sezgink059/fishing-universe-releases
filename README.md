@@ -1,11 +1,11 @@
 # Fishing Universe Android
 
-[APK indir: 0.28.35 / kod 315](https://datacenter.teknoyenilik.com/fishing/downloads/2cddbd3056c4fbffb89ebb44a097b24662fbf34f/FishingUniverse-0.28.35.apk)
+[APK indir: 0.28.36 / kod 316](https://datacenter.teknoyenilik.com/fishing/downloads/c04603bed2a1f203a7b77045c1b6d6f98dcaa3b1/FishingUniverse-0.28.36.apk)
 
-Misina sararken olta ucu bükülmesi ve misina uzunluğu onaylı sunucu değerleri arasında yumuşatılır. Yürümede başlangıç, yön değiştirme ve durma komutları periyodik gönderim zamanını beklemeden iletilir. Ağ gidiş-dönüş gecikmesi devam eder.
+Olta ucu, misina ve onaylı hareket çizimi değişken paket aralıklarına uyarlanan sınırlı yumuşatma kullanır. Ağ gecikmesi sürer; hareket ve kamera sunucu onayını bekler. Telefonda akıcılık ve termal kabul henüz yapılmadı.
 
-Eski oyunu kaldırmadan üstüne yükle. Hesap ve kayıtlı giriş biçimi korunur. Android kurulum onayı gerekir. Bu sürümün fiziksel telefondaki FPS kazanımı henüz ölçülmedi.
+Eski oyunu kaldırmadan üstüne yükle. Hesaplar ve kayıtlı giriş biçimi korunur. Android kurulum onayı gerekir.
 
 [Güncel VPS sürüm bilgisi](https://datacenter.teknoyenilik.com/fishing/updates/latest.json). Bu depo VPS kanalının metaveri kopyasıdır; APK mevcut VPS'de barındırılır.
 
-SHA256: da19eff4de9d9a4200532e32449989108fb353b0fce1d4ddc3dc4d08e52c3ddf
+SHA256: fdba5278adbf7cbff95fc7a3e69b349f52a7fcc27923a8ebc6976fbb241c57f2
