@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.35",
+  "versionCode": 315,
+  "sizeBytes": 48566961,
+  "sha256": "da19eff4de9d9a4200532e32449989108fb353b0fce1d4ddc3dc4d08e52c3ddf",
+  "sourceSha": "2cddbd3056c4fbffb89ebb44a097b24662fbf34f",
+  "notes": "Misina sararken olta ucu bükülmesi ve misina uzunluğu sunucu güncellemeleri arasındaki karelerde yumuşatılır. Yürümede başlangıç, yön değiştirme ve durma komutları periyodik gönderimi beklemeden iletilir. Sunucu otoritesi ve kayıtlı giriş korunur; ağ gidiş-dönüş süresi devam eder.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/2cddbd3056c4fbffb89ebb44a097b24662fbf34f/FishingUniverse-0.28.35.apk"
+}
