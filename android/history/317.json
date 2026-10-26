@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.37",
+  "versionCode": 317,
+  "sizeBytes": 48542385,
+  "sha256": "5683d5ca555c4339e62a3eb5f2afb92ba5d879f9d1d4dff53e0ee3e5c688c951",
+  "sourceSha": "043dfaf97d41809a58cf795b6735e4fa97506609",
+  "notes": "Hareket/bakış başlangıcı, yön değişimi ve duruşunda sunucu onaylı konumu daha erken yayımlar. İstemcinin güvenli WebSocket bağlantısında küçük komutları bekletebilen TCP tamponlaması kapatıldı. TLS doğrulaması, sunucu otoritesi, çarpışma, hesaplar ve kayıtlı giriş korunur. Yerel tahmin eklenmedi; fiziksel telefon gecikme/akıcılık kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/043dfaf97d41809a58cf795b6735e4fa97506609/FishingUniverse-0.28.37.apk"
+}

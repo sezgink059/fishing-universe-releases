@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.36",
-  "versionCode": 316,
-  "sizeBytes": 48566961,
-  "sha256": "fdba5278adbf7cbff95fc7a3e69b349f52a7fcc27923a8ebc6976fbb241c57f2",
-  "sourceSha": "c04603bed2a1f203a7b77045c1b6d6f98dcaa3b1",
-  "notes": "Olta ucu, misina ve onaylı hareket çizimi, değişken ağ paketi aralıklarına uyarlanan sınırlı yumuşatma kullanır. Paket kesilince son onaylı değerde durur. Yerel geliştirme ve Android derleme yolu eklendi. Sunucu otoritesi, hesaplar ve kayıtlı giriş korunur; ağ gecikmesi sürer, telefon akıcılık kabulü henüz yapılmadı.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/c04603bed2a1f203a7b77045c1b6d6f98dcaa3b1/FishingUniverse-0.28.36.apk"
+  "version": "0.28.37",
+  "versionCode": 317,
+  "sizeBytes": 48542385,
+  "sha256": "5683d5ca555c4339e62a3eb5f2afb92ba5d879f9d1d4dff53e0ee3e5c688c951",
+  "sourceSha": "043dfaf97d41809a58cf795b6735e4fa97506609",
+  "notes": "Hareket/bakış başlangıcı, yön değişimi ve duruşunda sunucu onaylı konumu daha erken yayımlar. İstemcinin güvenli WebSocket bağlantısında küçük komutları bekletebilen TCP tamponlaması kapatıldı. TLS doğrulaması, sunucu otoritesi, çarpışma, hesaplar ve kayıtlı giriş korunur. Yerel tahmin eklenmedi; fiziksel telefon gecikme/akıcılık kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/043dfaf97d41809a58cf795b6735e4fa97506609/FishingUniverse-0.28.37.apk"
 }
