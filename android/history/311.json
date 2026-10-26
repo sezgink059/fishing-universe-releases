@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.31",
+  "versionCode": 311,
+  "sizeBytes": 48554673,
+  "sha256": "3aba8e328deaecdaf11d7ef6efebde024dd80227cd02b215d191cb294731851b",
+  "sourceSha": "ded67df8e837bf26191347013ca3009e3016c1cb",
+  "notes": "Çevrimiçi hareket ve kamera sunucudan gelen konumlar arasında yumuşatılır. Dururken gereksiz hareket/bakış mesajları azaltıldı; paket yığınlarının tek karede işlenmesi sınırlandı. Sunucu otoritesi, özgün harita kontrolü ve kayıtlı giriş korunur.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/ded67df8e837bf26191347013ca3009e3016c1cb/FishingUniverse-0.28.31.apk"
+}
