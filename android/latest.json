@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.39",
-  "versionCode": 319,
+  "version": "0.28.40",
+  "versionCode": 320,
   "sizeBytes": 48546481,
-  "sha256": "02eccd6690b4baf9750f2fa9c820cbc75ac5def580bbaafbe308b9b6c36eb07d",
-  "sourceSha": "0ac3b0eacfac496c57cf98eca501bf7eb45a7752",
-  "notes": "Yürüme, bakış, misina uzunluğu ve olta geriliminin çizim geçişleri birbirini artık yeniden başlatmaz. Değişmeyen sunucu onaylı hedef, diğer değerler değişse de kendi geçişini tamamlar. Ağ gecikmesi sürer; yerel tahmin eklenmedi. Sunucu otoritesi, çarpışma, atış noktaları, hesaplar ve kayıtlı giriş korunur. Fiziksel telefon akıcılık/FPS/termal kabulü açıktır.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/0ac3b0eacfac496c57cf98eca501bf7eb45a7752/FishingUniverse-0.28.39.apk"
+  "sha256": "102133b256cd4c23d4eeee870ca59ef226d849a696bc31272659565c5e34bb9f",
+  "sourceSha": "d61363acaaae08df83f7d02794f637ab19945bbb",
+  "notes": "Bakış kaydırmasında parmağı veya fareyi normal bırakırken son konum örneği de işlenir; çok kısa hareketlerin kaybolması giderildi. İptal, menü/odak kilidi, ikinci parmak ve tekrarlı bırakma ek hareket üretmez. Kamera ve hareket sunucu onaylıdır; yerel tahmin yok, ağ gecikmesi sürer. Hesaplar, kayıtlı giriş ve orijinal imza korunur. Fiziksel telefon dokunma/akıcılık kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/d61363acaaae08df83f7d02794f637ab19945bbb/FishingUniverse-0.28.40.apk"
 }

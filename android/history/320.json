@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.40",
+  "versionCode": 320,
+  "sizeBytes": 48546481,
+  "sha256": "102133b256cd4c23d4eeee870ca59ef226d849a696bc31272659565c5e34bb9f",
+  "sourceSha": "d61363acaaae08df83f7d02794f637ab19945bbb",
+  "notes": "Bakış kaydırmasında parmağı veya fareyi normal bırakırken son konum örneği de işlenir; çok kısa hareketlerin kaybolması giderildi. İptal, menü/odak kilidi, ikinci parmak ve tekrarlı bırakma ek hareket üretmez. Kamera ve hareket sunucu onaylıdır; yerel tahmin yok, ağ gecikmesi sürer. Hesaplar, kayıtlı giriş ve orijinal imza korunur. Fiziksel telefon dokunma/akıcılık kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/d61363acaaae08df83f7d02794f637ab19945bbb/FishingUniverse-0.28.40.apk"
+}
