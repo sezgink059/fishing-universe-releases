@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.38",
+  "versionCode": 318,
+  "sizeBytes": 48546481,
+  "sha256": "52b8471ea6fe368e2005ce6e747aa6c3ad931fdb9f62e523fca138636ceff558",
+  "sourceSha": "940c794e569a5df7472876c3531c7577f05ea16a",
+  "notes": "Bakışın ilk komutu, 20 Hz sınırı uygun olduğunda aynı karede ağ kuyruğuna verilir; kısa hareket süreye göre ağırlıklandırılır. Otomatik ortalama, sunucu onaylı açıların yerleşmesini bekler. Kamera, hareket, çarpışma ve atış sunucu onaylı kalır; yerel tahmin yoktur. Hesaplar ve kayıtlı giriş korunur. Fiziksel telefon gecikme/akıcılık kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/940c794e569a5df7472876c3531c7577f05ea16a/FishingUniverse-0.28.38.apk"
+}

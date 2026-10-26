@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.37",
-  "versionCode": 317,
-  "sizeBytes": 48542385,
-  "sha256": "5683d5ca555c4339e62a3eb5f2afb92ba5d879f9d1d4dff53e0ee3e5c688c951",
-  "sourceSha": "043dfaf97d41809a58cf795b6735e4fa97506609",
-  "notes": "Hareket/bakış başlangıcı, yön değişimi ve duruşunda sunucu onaylı konumu daha erken yayımlar. İstemcinin güvenli WebSocket bağlantısında küçük komutları bekletebilen TCP tamponlaması kapatıldı. TLS doğrulaması, sunucu otoritesi, çarpışma, hesaplar ve kayıtlı giriş korunur. Yerel tahmin eklenmedi; fiziksel telefon gecikme/akıcılık kabulü açıktır.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/043dfaf97d41809a58cf795b6735e4fa97506609/FishingUniverse-0.28.37.apk"
+  "version": "0.28.38",
+  "versionCode": 318,
+  "sizeBytes": 48546481,
+  "sha256": "52b8471ea6fe368e2005ce6e747aa6c3ad931fdb9f62e523fca138636ceff558",
+  "sourceSha": "940c794e569a5df7472876c3531c7577f05ea16a",
+  "notes": "Bakışın ilk komutu, 20 Hz sınırı uygun olduğunda aynı karede ağ kuyruğuna verilir; kısa hareket süreye göre ağırlıklandırılır. Otomatik ortalama, sunucu onaylı açıların yerleşmesini bekler. Kamera, hareket, çarpışma ve atış sunucu onaylı kalır; yerel tahmin yoktur. Hesaplar ve kayıtlı giriş korunur. Fiziksel telefon gecikme/akıcılık kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/940c794e569a5df7472876c3531c7577f05ea16a/FishingUniverse-0.28.38.apk"
 }
