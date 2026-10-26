@@ -1,11 +1,11 @@
 # Fishing Universe Android
 
-[APK indir: 0.28.33 / kod 313](https://datacenter.teknoyenilik.com/fishing/downloads/6694596a5b660808f3246272e03417bcf30f8c36/FishingUniverse-0.28.33.apk)
+[APK indir: 0.28.34 / kod 314](https://datacenter.teknoyenilik.com/fishing/downloads/a2cadb62d8cba03a20a580642c8cd249c211bc07/FishingUniverse-0.28.34.apk)
 
-Arayüzde değişmeyen metinlerin, gizli menü izinlerinin ve panel düzeninin tekrar hesaplanması azaltıldı. Değişen değerler ve görünür kontroller anında güncellenir. Sürüm/FPS göstergesi ve önceki Android çizim sınırları korunur.
+Kısa kamera hareketlerinin ağ gönderimleri arasında kaybolması düzeltildi. Sunucunun onayladığı olta şarjı ve uçuşu kareler arasında yumuşatılır. Android su yansıması kamera çevrilirken de üç karede bir çizilir. FPS göstergesinde en uzun kare süresi ve sunucu güncelleme sıklığı da yer alır.
 
 Eski oyunu kaldırmadan üstüne yükle. Hesap ve kayıtlı giriş biçimi korunur. Android kurulum onayı gerekir. Bu sürümün fiziksel telefondaki FPS kazanımı henüz ölçülmedi.
 
 [Güncel VPS sürüm bilgisi](https://datacenter.teknoyenilik.com/fishing/updates/latest.json). Bu depo VPS kanalının metaveri kopyasıdır; APK mevcut VPS'de barındırılır.
 
-SHA256: 06f1b69e1ab810ea1352826fb9f564e17b3b55f6acd1a742b1c70ac68327c29a
+SHA256: 880c56727bc4c25fde746659cb9b11ad0b522d03ff0504219f99fe98823d93db
