@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.42",
+  "versionCode": 322,
+  "sizeBytes": 48550577,
+  "sha256": "952071eb9d00ddc9dddd77f6c87579ea75ed23922e2eaf1b63f270dbf61ea609",
+  "sourceSha": "853746affd5ce3119f96acf600e1c42f82e740ff",
+  "notes": "Olta çiziminde her karede yinelenen sabit hesaplar azaltıldı; olta, misina ve el geometrisi korundu. Yerel Unity karşılaştırması çizim yordamının maliyetini ölçer; telefon FPS veya akıcılık kabulü değildir. Kamera ve hareket sunucu onaylıdır, yerel tahmin yok; ağ gecikmesi sürer. Hesaplar, kayıtlı giriş ve özgün Android imzası korunur. Fiziksel telefon kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/853746affd5ce3119f96acf600e1c42f82e740ff/FishingUniverse-0.28.42.apk"
+}

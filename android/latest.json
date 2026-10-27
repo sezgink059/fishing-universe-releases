@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.41",
-  "versionCode": 321,
+  "version": "0.28.42",
+  "versionCode": 322,
   "sizeBytes": 48550577,
-  "sha256": "0cfadcc775e04f58ab427b1aaaa6880ffa70c44a11fc4de7527039f07abbe1b3",
-  "sourceSha": "f94dc3a86a8826fe385d98c55f24e0bb096ae98d",
-  "notes": "Kısa bir görüntü duraklamasından sonra biriken sunucu durumları ve onayları, kare başında hazır olan sınırlı grup içinde sırasıyla işlenir; ek kareler beklemesi azaltılır. Paket sınırları ve bayat bağlantı kapanışı korunur. Kamera/konum sunucu onaylıdır, yerel tahmin yok; ağ gecikmesi sürer. Hesaplar, kayıtlı giriş ve orijinal imza korunur. Fiziksel telefon akıcılık/FPS kabulü açıktır.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/f94dc3a86a8826fe385d98c55f24e0bb096ae98d/FishingUniverse-0.28.41.apk"
+  "sha256": "952071eb9d00ddc9dddd77f6c87579ea75ed23922e2eaf1b63f270dbf61ea609",
+  "sourceSha": "853746affd5ce3119f96acf600e1c42f82e740ff",
+  "notes": "Olta çiziminde her karede yinelenen sabit hesaplar azaltıldı; olta, misina ve el geometrisi korundu. Yerel Unity karşılaştırması çizim yordamının maliyetini ölçer; telefon FPS veya akıcılık kabulü değildir. Kamera ve hareket sunucu onaylıdır, yerel tahmin yok; ağ gecikmesi sürer. Hesaplar, kayıtlı giriş ve özgün Android imzası korunur. Fiziksel telefon kabulü açıktır.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/853746affd5ce3119f96acf600e1c42f82e740ff/FishingUniverse-0.28.42.apk"
 }
