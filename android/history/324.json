@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.44",
+  "versionCode": 324,
+  "sizeBytes": 48673457,
+  "sha256": "78e9d917e3178180f4ca0ba6baa88ebad63f771768e105479f04876ad90b5092",
+  "sourceSha": "3790ee7188a771fda98ba84e782ea12ebd4bf780",
+  "notes": "Atışta sol el makara kolundan ayrılıp parmaklarını açıyor, sonra eski tutuşa dönüyor. Gözlenen uçuş–su geçişinde kısa damla sıçraması eklendi. Bu prototip iyileştirmesidir; yürüme/bakış gecikmesi, üretim rig’i ve yönsel mücadele henüz tamamlanmadı. Hesaplar, kayıtlı giriş ve özgün imza korunur. Fiziksel telefon kabulü bekliyor.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/3790ee7188a771fda98ba84e782ea12ebd4bf780/FishingUniverse-0.28.44.apk"
+}
