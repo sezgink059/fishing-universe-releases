@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.45",
+  "versionCode": 325,
+  "sizeBytes": 48673457,
+  "sha256": "c25247bf523834329bbd0d4feb75c2cb657cf947a3db2f9d9fb42d827180472c",
+  "sourceSha": "1cc0c050d149c5ba224a1836f47990879c5154ba",
+  "notes": "Mücadelede yükle birlikte kamış ve eller yukarı dayanır; esneme misinanın çekiş yönünü izler. Sarma ve misina salımı sırasında hareket eden şamandıranın arkasında yönlü su izi oluşur. Önceki atış eli ve suya giriş efektleri korunur. Sunucu otoritesi, ilerleme ve kayıtlı giriş değişmez. Yürüme/bakış gecikmesi ve telefon performans kabulü açık. Uygulamayı kaldırmadan üzerine kurun.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/1cc0c050d149c5ba224a1836f47990879c5154ba/FishingUniverse-0.28.45.apk"
+}

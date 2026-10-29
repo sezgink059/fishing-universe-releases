@@ -1,9 +1,9 @@
 # Fishing Universe Android
 
-[Son APK: 0.28.44](https://datacenter.teknoyenilik.com/fishing/downloads/3790ee7188a771fda98ba84e782ea12ebd4bf780/FishingUniverse-0.28.44.apk)
+[Son APK: 0.28.45](https://datacenter.teknoyenilik.com/fishing/downloads/1cc0c050d149c5ba224a1836f47990879c5154ba/FishingUniverse-0.28.45.apk)
 
-Atışta sol el makara kolundan ayrılıp parmaklarını açıyor, sonra eski tutuşa dönüyor. Gözlenen uçuş–su geçişinde kısa damla sıçraması eklendi. Bu prototip iyileştirmesidir; yürüme/bakış gecikmesi, üretim rig’i ve yönsel mücadele henüz tamamlanmadı. Hesaplar, kayıtlı giriş ve özgün imza korunur. Fiziksel telefon kabulü bekliyor.
+Mücadelede yükle birlikte kamış ve eller yukarı dayanır; esneme misinanın çekiş yönünü izler. Sarma ve misina salımı sırasında hareket eden şamandıranın arkasında yönlü su izi oluşur. Önceki atış eli ve suya giriş efektleri korunur. Sunucu otoritesi, ilerleme ve kayıtlı giriş değişmez. Yürüme/bakış gecikmesi ve telefon performans kabulü açık. Uygulamayı kaldırmadan üzerine kurun.
 
-Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gereklidir.
+Eski oyunu kaldırmadan üstüne yükle. Android kurulum onayı gereklidir. Üretim rig’i ve yönsel balık davranışı henüz tamamlanmadı; fiziksel telefon/his/FPS/ısı kabulü açık.
 
-SHA256: 78e9d917e3178180f4ca0ba6baa88ebad63f771768e105479f04876ad90b5092
+SHA256: c25247bf523834329bbd0d4feb75c2cb657cf947a3db2f9d9fb42d827180472c
