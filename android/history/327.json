@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.47",
+  "versionCode": 327,
+  "sizeBytes": 49021875,
+  "sha256": "87a2edf80af0baef967a9608cc1e39d88d11f8cb4af4c433e0d4aea6b582458c",
+  "sourceSha": "7073376ba9b39a151d2e96af4efe438a72cabb7b",
+  "notes": "Eldivenler kaynak mesh, UV ve tam kemik ağırlıklarıyla anatomik el biçimine geçti. Üç takımın kamış/makara tutuşları ayrı ayarlandı; atışta el düğmeden ayrıldıktan sonra parmaklar açılır. Kumaş kollar ve manşetler bileği izler; makara düğmesi avuç içinde serbest döner. Yüklenme tutuşu ve su izi korunur. Yürüme/bakış gecikmesi ve telefon görsel/FPS/ısı kabulü açık. Oyunu kaldırmadan üzerine kurun.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/7073376ba9b39a151d2e96af4efe438a72cabb7b/FishingUniverse-0.28.47.apk"
+}
