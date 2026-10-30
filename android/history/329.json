@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.49",
+  "versionCode": 329,
+  "sizeBytes": 49025971,
+  "sha256": "046177fe912130b7068c3dd8b938cde16c44c8adb81e6d42ddd22b0d997ee753",
+  "sourceSha": "5069d831eb90535971c1a48d58d7b2c166df240e",
+  "notes": "Balığı suya bırakırken halka, sıçrama ve ses artık gövdenin suyla ilk temasında, aynı noktada oluşur. Sıçrama balığın büyüklüğüne ve bırakma hareketine göre sınırlı değişir; duraklama veya bağlantı değişiminden sonra eski temas tekrarlanmaz. Atış, av sonucu, hesap ve kayıtlı giriş korunur. Telefon görsel/his/FPS kabulü ve yürüme-bakış gecikmesi açık. Oyunu kaldırmadan üzerine kurun.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/5069d831eb90535971c1a48d58d7b2c166df240e/FishingUniverse-0.28.49.apk"
+}
