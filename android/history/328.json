@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.48",
+  "versionCode": 328,
+  "sizeBytes": 49021875,
+  "sha256": "8fb87735aa38dad3452b09966fc99c9d45e7ee55e084422c392085134ee3b18b",
+  "sourceSha": "fe5d8cc1414f57c0c09ca2f7edc95f3a97e0b687",
+  "notes": "Atış savuruşu hızlanma, takip ve yumuşak toparlanma aşamalarıyla yenilendi. Kamış ucu savuruşta esneyip sınırlı geri tepki gösterir; eller mevcut tutuşu korur. Atışın hedefi, hesabınız ve kayıtlı giriş değişmez. Yürüme/bakış gecikmesi ile telefon görsel, his ve performans kabulü hâlâ açık. Oyunu kaldırmadan üzerine kurun.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/fe5d8cc1414f57c0c09ca2f7edc95f3a97e0b687/FishingUniverse-0.28.48.apk"
+}

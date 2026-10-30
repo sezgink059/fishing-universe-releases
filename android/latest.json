@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.47",
-  "versionCode": 327,
+  "version": "0.28.48",
+  "versionCode": 328,
   "sizeBytes": 49021875,
-  "sha256": "87a2edf80af0baef967a9608cc1e39d88d11f8cb4af4c433e0d4aea6b582458c",
-  "sourceSha": "7073376ba9b39a151d2e96af4efe438a72cabb7b",
-  "notes": "Eldivenler kaynak mesh, UV ve tam kemik ağırlıklarıyla anatomik el biçimine geçti. Üç takımın kamış/makara tutuşları ayrı ayarlandı; atışta el düğmeden ayrıldıktan sonra parmaklar açılır. Kumaş kollar ve manşetler bileği izler; makara düğmesi avuç içinde serbest döner. Yüklenme tutuşu ve su izi korunur. Yürüme/bakış gecikmesi ve telefon görsel/FPS/ısı kabulü açık. Oyunu kaldırmadan üzerine kurun.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/7073376ba9b39a151d2e96af4efe438a72cabb7b/FishingUniverse-0.28.47.apk"
+  "sha256": "8fb87735aa38dad3452b09966fc99c9d45e7ee55e084422c392085134ee3b18b",
+  "sourceSha": "fe5d8cc1414f57c0c09ca2f7edc95f3a97e0b687",
+  "notes": "Atış savuruşu hızlanma, takip ve yumuşak toparlanma aşamalarıyla yenilendi. Kamış ucu savuruşta esneyip sınırlı geri tepki gösterir; eller mevcut tutuşu korur. Atışın hedefi, hesabınız ve kayıtlı giriş değişmez. Yürüme/bakış gecikmesi ile telefon görsel, his ve performans kabulü hâlâ açık. Oyunu kaldırmadan üzerine kurun.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/fe5d8cc1414f57c0c09ca2f7edc95f3a97e0b687/FishingUniverse-0.28.48.apk"
 }

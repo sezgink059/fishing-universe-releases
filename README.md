@@ -1,13 +1,13 @@
 # Fishing Universe Android geliştirme kanalı
 
-Güncel imzalı APK: **0.28.47 / kod 327**.
+Güncel imzalı APK: **0.28.48 / kod 328**.
 
-[APK indir](https://datacenter.teknoyenilik.com/fishing/downloads/7073376ba9b39a151d2e96af4efe438a72cabb7b/FishingUniverse-0.28.47.apk) — 49021875 bayt.
+[APK indir](https://datacenter.teknoyenilik.com/fishing/downloads/fe5d8cc1414f57c0c09ca2f7edc95f3a97e0b687/FishingUniverse-0.28.48.apk) — 49021875 bayt.
 
-SHA256: `87a2edf80af0baef967a9608cc1e39d88d11f8cb4af4c433e0d4aea6b582458c`
+SHA256: `8fb87735aa38dad3452b09966fc99c9d45e7ee55e084422c392085134ee3b18b`
 
-Kaynak: `7073376ba9b39a151d2e96af4efe438a72cabb7b`. Yerel Unity6000.3.26f1/ARM64IL2CPP; Actions derlemesi başlatılmadı. Gerçek326öncül ve özgün v2/v3imza/paket korunur; uygulamayı kaldırmadan üzerine kurun.
+Kaynak: `fe5d8cc1414f57c0c09ca2f7edc95f3a97e0b687`. Yerel Unity6000.3.26f1/ARM64IL2CPP; Actions başlatılmadı. Gerçek327öncül ve özgün v2/v3imza/paket korunur. Oyunu kaldırmadan üzerine kurun.
 
-Kaynak mesh/UV/fullweight anatomik eldiven, üç takım için ayrı kamış/makara tutuşu ve atışta önce düğmeden ayrılan parmaklar. Kumaş kol/manşet ve yüklenme/su izi korunur. Backend/DB değişmez; yürüme/bakış gecikmesi, tam productionrig, telefon görsel/his/FPS/ısı/upgrade kabulü açık.
+Atışta hızlanma, takip ve yumuşak toparlanma; kamışın ince kısmında sınırlı esneme ve geri tepki. Anatomik eller, üç takımın tutuşu ve önceki su izi korunur. Atış hedefi, hesap/kayıtlı giriş, server/DB değişmez. Bu authored sunumdur; tam yükleme/üretimrig/yönselAI/yürüme-bakış gecikmesi ve telefon görsel/his/FPS/ısı/upgrade kabulü açık.
 
-`android/latest.json` ve `android/history/327.json` VPS feed'iyle aynı; eski321/322/324/325/326history korunur. Normal yerel/API/native kontroller cihaz testi değildir.
+`android/latest.json` ve `android/history/328.json` VPS feed'iyle aynı; eski321/322/324/325/326/327history korunur. Yerel/API/native kontroller cihaz testi değildir.
