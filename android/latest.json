@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.45",
-  "versionCode": 325,
-  "sizeBytes": 48673457,
-  "sha256": "c25247bf523834329bbd0d4feb75c2cb657cf947a3db2f9d9fb42d827180472c",
-  "sourceSha": "1cc0c050d149c5ba224a1836f47990879c5154ba",
-  "notes": "Mücadelede yükle birlikte kamış ve eller yukarı dayanır; esneme misinanın çekiş yönünü izler. Sarma ve misina salımı sırasında hareket eden şamandıranın arkasında yönlü su izi oluşur. Önceki atış eli ve suya giriş efektleri korunur. Sunucu otoritesi, ilerleme ve kayıtlı giriş değişmez. Yürüme/bakış gecikmesi ve telefon performans kabulü açık. Uygulamayı kaldırmadan üzerine kurun.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/1cc0c050d149c5ba224a1836f47990879c5154ba/FishingUniverse-0.28.45.apk"
+  "version": "0.28.46",
+  "versionCode": 326,
+  "sizeBytes": 48693937,
+  "sha256": "c1025d787d34c62767477b70df6ed5e472f70fcd9fd60f11caf43c6bcbef5941",
+  "sourceSha": "c1ddd265cb74de8af073783ac59c354f0ff4799a",
+  "notes": "Atışta serbest elin parmakları sabit eklem boylarıyla açılıp kapanır. Eldivenin tutuş panelleri ve kumaş kolların hacmi, kıvrımları, manşeti ve dokuma görünümü yenilendi. Yüklenme tutuşu ve hareketli su izi korunur. Sunucu otoritesi, hesaplar ve kayıtlı giriş değişmez. Üretim rig’i, yürüme/bakış gecikmesi ve telefon his/FPS/ısı kabulü açık. Oyunu kaldırmadan üzerine kurun.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/c1ddd265cb74de8af073783ac59c354f0ff4799a/FishingUniverse-0.28.46.apk"
 }
