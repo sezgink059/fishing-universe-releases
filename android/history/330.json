@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.50",
+  "versionCode": 330,
+  "sizeBytes": 49030067,
+  "sha256": "535775fa7ad63403382fd0da933ed77b3a8cb8cda213762fccf8596a0696081d",
+  "sourceSha": "ffd8e19dcbf4caf68d79c7129d4de3ad0d121628",
+  "notes": "Dengeli takımda sağ el sapı çapraz kavrar; işaret parmağı ayrı ayarlandı, önkolun kamışa dik duruşu azaltıldı. Gerilim barı ve sayısı artık kamışla aynı yumuşatılmış değeri izler; yeni kopma riskinde uyarı ve değer hemen gerçek sunucu değerine geçer. Diğer takım profilleri, av sonucu ve kayıtlı giriş korunur. Telefon görsel/his/FPS kabulü, atış güç göstergesi ve yürüme-bakış gecikmesi açık. Oyunu kaldırmadan üzerine kurun.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/ffd8e19dcbf4caf68d79c7129d4de3ad0d121628/FishingUniverse-0.28.50.apk"
+}
