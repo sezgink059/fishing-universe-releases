@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.51",
+  "versionCode": 331,
+  "sizeBytes": 49034163,
+  "sha256": "057aae85b4e67636ebec20a79e8e45ec8a45c37be4f4ef679861af001e3e176a",
+  "sourceSha": "e70f21d0b9b143ff756fdf7e3177da1d5c3c9c26",
+  "notes": "Atış düğmesine basınca ince beyaz tutma izi aynı karede görünür ve akıcı ilerler. Altın çizgi sunucunun kabul ettiği gücü ayrı gösterir; atışın gücü ve sonucu sunucuda kalır. İptal, eski veri veya bağlantı değişiminde beyaz iz kapanır; ikinci parmak atışa sahip olamaz. Dengeli tutuş ve önceki gerilim iyileştirmeleri korunur. Telefon his/FPS kabulü, kaloma kontrolü ve yürüme-bakış gecikmesi açık. Oyunu kaldırmadan üzerine kurun.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/e70f21d0b9b143ff756fdf7e3177da1d5c3c9c26/FishingUniverse-0.28.51.apk"
+}
