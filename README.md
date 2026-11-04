@@ -1,15 +1,15 @@
 # Fishing Universe Android geliştirme kanalı
 
-Güncel imzalı APK: **0.28.51 / kod331**.
+Güncel imzalı APK: **0.28.52 / kod332**.
 
-[APK indir](https://datacenter.teknoyenilik.com/fishing/downloads/e70f21d0b9b143ff756fdf7e3177da1d5c3c9c26/FishingUniverse-0.28.51.apk) — 49034163 bayt.
+[APK indir](https://datacenter.teknoyenilik.com/fishing/downloads/18885079eba3230f14c11ac2c7a143918fb8f294/FishingUniverse-0.28.52.apk) — 49042355 bayt.
 
-SHA256: `057aae85b4e67636ebec20a79e8e45ec8a45c37be4f4ef679861af001e3e176a`
+SHA256: `660daa6c8c66db9d5a1c39aacfc091dad434911e86157aba8e5044f8ed78a355`
 
-Kaynak: `e70f21d0b9b143ff756fdf7e3177da1d5c3c9c26`. Yerel Unity6000.3.26f1/ARM64IL2CPP; Actions başlatılmadı. Gerçek330öncül ve özgün v2/v3imza/paket korunur. Oyunu kaldırmadan üzerine kurun.
+Kaynak: `18885079eba3230f14c11ac2c7a143918fb8f294`. Yerel Unity6000.3.26f1/ARM64IL2CPP; Actions başlatılmadı. Gerçek331öncül ve özgün v2/v3imza/paket korunur. Oyunu kaldırmadan üzerine kurun.
 
-Atış düğmesine basınca beyaz tutma izi aynı karede görünür ve render karelerinde ilerler. Altın çizgi sunucunun kabul ettiği gücü ayrı gösterir; atış gücü/sonucu ve kamış pozu sunucuda kalır. İptal, eski veri ve bağlantı değişiminde beyaz iz kapanır. Cast tek parmağa aittir; ikinci parmak devralmaz. Normal gerilim ve Dengeli tutuş iyileştirmeleri korunur.
+Sarma yanındaki kalomaya dokunarak açılan özgün dikey panel, göreli sürükleme ve mutlak ray sunar. Beyaz tutamak istediğiniz ayarı, altın çizgi sunucunun kabul ettiği değeri ayrı gösterir. Sararken başka parmakla ayar yapılabilir; normal bırakma son koordinatı işler, iptal/ikinci parmak devralmayı engeller. Av sonucu, hesap ve kayıtlı giriş korunur.
 
-Telefon görsel/his/FPS/ısı/upgrade ve normal90s kabulü açık. Hızlı menü/finger-release/close geçişlerinin Backpressure bağlantı kapanışı ayrı açık kusurdur; kontrollü iptal testi bunu çözmüş sayılmaz. Kaloma kontrolü, doğal yüklü kamış, yönlü balık ve yürüme/bakış gecikmesi sonraki işlerdir. Google Play'e yüklenmedi.
+Gerçek yerelUnity/publicReady-Fighting/OS/Android kontrolleri ve anonim APK/imza/hash/feed doğrulandı. Telefon görsel/his/okunabilirlik/FPS/ısı/upgrade ve normal90s kabulü açık. Hızlı menü-release-close Backpressure bağlantı kapanışı ayrı açık kusurdur; kontrollü iptal bunu çözmez. Doğal yüklü kamış, yönlü balık ve yürüme/bakış gecikmesi geliştirilmelidir. Google Play'e yüklenmedi.
 
-`android/latest.json` ve `android/history/331.json` VPS feed'iyle aynı; eski321/322/324/325/326/327/328/329/330history korunur. Yerel/masaüstü kontroller telefon testi değildir.
+`android/latest.json` ve `android/history/332.json` VPS feed'iyle aynı; eski321/322/324/325/326/327/328/329/330/331history korunur. Yerel/masaüstü kontroller telefon testi değildir.
