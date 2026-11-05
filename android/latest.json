@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.54",
-  "versionCode": 334,
-  "sizeBytes": 49051299,
-  "sha256": "695242b8cdccc06d4797e50ff6e2ec4eee12dbe987b29365c424074f3b3050df",
-  "sourceSha": "014145a775938492f6e6c7c039163c232b5b9901",
-  "notes": "Sarma tuşu artık ayrı. Kalama −/+ ve sarma hızı ↑/↓ düğmeleriyle ayarlanır; basılı tutarak kademeli değiştirebilirsin. SAR üzerindeki eski hız kaydırması kaldırıldı. Vuruş ve gerilim düzeltmeleri korunur.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/014145a775938492f6e6c7c039163c232b5b9901/FishingUniverse-0.28.54.apk"
+  "version": "0.28.55",
+  "versionCode": 335,
+  "sizeBytes": 49108643,
+  "sha256": "85df38e6e4d11954dc1e5bd8cddbe839b092c59dc0e9f25f78c781209bb879a0",
+  "sourceSha": "20e85d65f20c454be826d42c3fd94fd3b8d914b5",
+  "notes": "Av menüsündeki Performans ile90s canlı oyun kaydı başlatılabilir. Oyun normal devam eder; raporda kare aralığı p50/p95/p99 ve gerçek ağ/çizim callback örnekleri ayrılır. GPU/foton ve sunucu saatleri ölçülmediyse boş kalır. Ayrı SAR, yatay kalama ve dikey hız ayarları korunur.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/20e85d65f20c454be826d42c3fd94fd3b8d914b5/FishingUniverse-0.28.55.apk"
 }

@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.55",
+  "versionCode": 335,
+  "sizeBytes": 49108643,
+  "sha256": "85df38e6e4d11954dc1e5bd8cddbe839b092c59dc0e9f25f78c781209bb879a0",
+  "sourceSha": "20e85d65f20c454be826d42c3fd94fd3b8d914b5",
+  "notes": "Av menüsündeki Performans ile90s canlı oyun kaydı başlatılabilir. Oyun normal devam eder; raporda kare aralığı p50/p95/p99 ve gerçek ağ/çizim callback örnekleri ayrılır. GPU/foton ve sunucu saatleri ölçülmediyse boş kalır. Ayrı SAR, yatay kalama ve dikey hız ayarları korunur.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/20e85d65f20c454be826d42c3fd94fd3b8d914b5/FishingUniverse-0.28.55.apk"
+}
