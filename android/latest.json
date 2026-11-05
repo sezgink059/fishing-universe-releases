@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.52",
-  "versionCode": 332,
-  "sizeBytes": 49042355,
-  "sha256": "660daa6c8c66db9d5a1c39aacfc091dad434911e86157aba8e5044f8ed78a355",
-  "sourceSha": "18885079eba3230f14c11ac2c7a143918fb8f294",
-  "notes": "Kaloma kontrolü sarma düğmesinin yanındaki açılır dikey panele taşındı. Dokunarak açabilir veya aynı parmakla yukarı çekerek ayarlayabilirsin. Beyaz tutamak istediğin ayarı, altın işaret sunucunun onayladığı kalomayı gösterir. Sarma ve kaloma ayrı parmaklarla birlikte kullanılabilir. Son bırakma örneği korunur, iptal bekleyen yerel değeri atar. Telefon his/FPS kabulü, hızlı menü geçişi ve yürüme-bakış gecikmesi açık. Oyunu kaldırmadan üzerine kurun.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/18885079eba3230f14c11ac2c7a143918fb8f294/FishingUniverse-0.28.52.apk"
+  "version": "0.28.53",
+  "versionCode": 333,
+  "sizeBytes": 49046451,
+  "sha256": "671b106057a21549c19ff9c7751a5ecf94ae53e12d1bc7f40516ecec65b464dd",
+  "sourceSha": "f9e353623aae94a876f35861e332dc078f2c4b41",
+  "notes": "Balık vuruşu onaylandıktan sonra geri sayım çubuğu ve şamandıra hareketi paketler arasında da ilerler. Gerçek vuruş gelmeden olay üretilmez; sunucunun tasmalama süresi ve av sonuçları değişmez. Kaloma, sarma ve bakış ortak ekran dönüşümünü kullanır; eski kaloma hareketi faz değişiminde kapanır. Üç ekran oranı ve büyük metin yerelde sınandı. Telefon vuruş hissi/FPS, hızlı menü bağlantı kusuru ve yürüme-bakış gecikmesi açık. Oyunu kaldırmadan üzerine kurun.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/f9e353623aae94a876f35861e332dc078f2c4b41/FishingUniverse-0.28.53.apk"
 }
