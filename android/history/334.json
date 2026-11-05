@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.54",
+  "versionCode": 334,
+  "sizeBytes": 49051299,
+  "sha256": "695242b8cdccc06d4797e50ff6e2ec4eee12dbe987b29365c424074f3b3050df",
+  "sourceSha": "014145a775938492f6e6c7c039163c232b5b9901",
+  "notes": "Sarma tuşu artık ayrı. Kalama −/+ ve sarma hızı ↑/↓ düğmeleriyle ayarlanır; basılı tutarak kademeli değiştirebilirsin. SAR üzerindeki eski hız kaydırması kaldırıldı. Vuruş ve gerilim düzeltmeleri korunur.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/014145a775938492f6e6c7c039163c232b5b9901/FishingUniverse-0.28.54.apk"
+}

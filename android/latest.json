@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "package": "com.fishinguniverse.prototype",
-  "version": "0.28.53",
-  "versionCode": 333,
-  "sizeBytes": 49046451,
-  "sha256": "671b106057a21549c19ff9c7751a5ecf94ae53e12d1bc7f40516ecec65b464dd",
-  "sourceSha": "f9e353623aae94a876f35861e332dc078f2c4b41",
-  "notes": "Balık vuruşu onaylandıktan sonra geri sayım çubuğu ve şamandıra hareketi paketler arasında da ilerler. Gerçek vuruş gelmeden olay üretilmez; sunucunun tasmalama süresi ve av sonuçları değişmez. Kaloma, sarma ve bakış ortak ekran dönüşümünü kullanır; eski kaloma hareketi faz değişiminde kapanır. Üç ekran oranı ve büyük metin yerelde sınandı. Telefon vuruş hissi/FPS, hızlı menü bağlantı kusuru ve yürüme-bakış gecikmesi açık. Oyunu kaldırmadan üzerine kurun.",
-  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/f9e353623aae94a876f35861e332dc078f2c4b41/FishingUniverse-0.28.53.apk"
+  "version": "0.28.54",
+  "versionCode": 334,
+  "sizeBytes": 49051299,
+  "sha256": "695242b8cdccc06d4797e50ff6e2ec4eee12dbe987b29365c424074f3b3050df",
+  "sourceSha": "014145a775938492f6e6c7c039163c232b5b9901",
+  "notes": "Sarma tuşu artık ayrı. Kalama −/+ ve sarma hızı ↑/↓ düğmeleriyle ayarlanır; basılı tutarak kademeli değiştirebilirsin. SAR üzerindeki eski hız kaydırması kaldırıldı. Vuruş ve gerilim düzeltmeleri korunur.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/014145a775938492f6e6c7c039163c232b5b9901/FishingUniverse-0.28.54.apk"
 }
