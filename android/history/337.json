@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.57",
+  "versionCode": 337,
+  "sizeBytes": 49137315,
+  "sha256": "c1238a2b8bdec4dbb0f210010b1131bb400da73e27d95888929c2c3b5f4f2b4e",
+  "sourceSha": "d424ffdfe825c51e50621faa9b654656386b8db7",
+  "notes": "90s Performans raporunda normal yürüyüş ve bakış girişleri gerçek komut sıra numarasıyla eşleşir. Yenileme ve otomatik komutlar ayrı, ilk/son giriş beklemesi ayrı raporlanır. Kamera ve kanonik ayak izleri kaydedilir; GPU/foton ve gerçek komut-etki süresi doğrulanmadıkça boş kalır. Menü bağlantı düzeltmesi, ayrı SAR ve kalama/hız korunur.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/d424ffdfe825c51e50621faa9b654656386b8db7/FishingUniverse-0.28.57.apk"
+}
