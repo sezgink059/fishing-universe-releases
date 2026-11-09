@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "package": "com.fishinguniverse.prototype",
+  "version": "0.28.59",
+  "versionCode": 339,
+  "sizeBytes": 49219235,
+  "sha256": "1c7115f95705270e5935313a340627791bfcee745327269833b0a92073640e4e",
+  "sourceSha": "b6e7dc10bd50c28b452e72024d7ee16404fa00ee",
+  "notes": "Dengeli takımda daha kısa sap ve daha küçük makine; el ölçüsünü koruyan ortak mekanizma ve bilekle hizalı, daha doğal kol/manşet geçişi. Mevcut hesap, atış ve av kuralları korunur.",
+  "apkUrl": "https://datacenter.teknoyenilik.com/fishing/downloads/b6e7dc10bd50c28b452e72024d7ee16404fa00ee/FishingUniverse-0.28.59.apk"
+}
